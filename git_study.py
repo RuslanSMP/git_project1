@@ -1,6 +1,7 @@
 def my_superfunction():
     print('What an awesome print!')
     print('YandexLyceum')
+    print('YandexLyceum')
 
 
 def main():
